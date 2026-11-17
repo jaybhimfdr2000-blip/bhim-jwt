@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire Tools — Shah G Creator",
+  "description": "Premium Free Fire tools collection by Shah G Creator. Fast, free & always online with FF Assets Viewer, Remini AI Enhancer, HD Upscaler, and OB Update Tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
